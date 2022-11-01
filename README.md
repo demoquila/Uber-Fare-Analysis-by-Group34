@@ -5,12 +5,11 @@
 
 ## About the project
 ### This is the final project of group 34.
-### We foucus on analyzing the following aspects:
+### We focus on analyzing the following aspects:
 * Change of Total Fare from 2009 to 2015
 * Distribution of Average Fare in a week
 * Distribution of distance of each trip
-
-### Meanwhile, we observe the distribution of fare(in US) with different minimal fare_amount.
+* the distribution of fare(in US) with different minimal fare_amount.
 
 
 
